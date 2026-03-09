@@ -29,7 +29,41 @@
 </p>
 
 ---
+## 🔗 Things I use on a daily basis
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/Salesforce%20Marketing%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Salesforce%20CRM-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Salesforce%20Admin-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AMPscript-FF7A00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SSJS-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Insights-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Storytelling-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Presentations-FF4B4B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+----
 ## 📌 What I Work On
 
 - Salesforce Marketing Cloud development
