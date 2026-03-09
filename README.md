@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Salesforce+Marketing+Cloud+Developer;SQL+%7C+AMPscript+%7C+SSJS;Data+Analytics+Enthusiast&center=true&width=500&height=45">
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Shyam Christy Paul</h1>
 
