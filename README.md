@@ -103,7 +103,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyamchristypaul">
+  <a href="linkedin.com/in/shyam-christy-paul">
     <img src="https://img.shields.io/badge/LinkedIn-Shyam%20Christy%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
